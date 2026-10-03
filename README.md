@@ -6,7 +6,7 @@ Backend & Software Engineer with 4+ years of experience building scalable, secur
 
 ### 💻 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,nodejs,nestjs,ts,js,postgres,mysql,sqlite,electron,vite,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,nodejs,nestjs,express,ts,js,postgres,mysql,sqlite,electron,vite,docker,git,gitlab,rabbitmq)](https://skillicons.dev)
 
 ---
 
