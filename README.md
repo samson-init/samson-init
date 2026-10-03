@@ -39,3 +39,6 @@ Backend & Software Engineer with 4+ years of experience building scalable, secur
 
 ### ⚡ Fun Fact
 When I'm not writing code or working, I enjoy exploring tech vibes and innovations!
+
+### 🌐 Icon Refrences
+ - https://skillicons.dev/
