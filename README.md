@@ -34,6 +34,14 @@ Backend & Software Engineer with 4+ years of experience building scalable, secur
 - 🌱 **Learning & Researching:** Advanced application security engineering, result patterns in TypeScript/NestJS, and domain mapping.
 - 💬 **Ask Me About:** `.NET Web API`, `NestJS`, `C#`, `TypeScript`, `SQL Server / PostgreSQL / SQLite`, and `Electron`.
 - 📫 **How to Reach Me:** Connect with me on [LinkedIn](https://linkedin.com/in/samson-iseoluwa-dada).
+---
+
+
+### 👩‍💻 Project and learning Modde
+
+-  **Project:** Operation and real time system app, analytical and management application.
+-  **Skills, Learning & Researching:** [`System design (SDLC & Project Management)`, `Advanced application security engineering (Cybersecurity)` and `AI Tools and Agentic (programming, LLM)`].
+-  
 
 ---
 
